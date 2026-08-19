@@ -1,9 +1,8 @@
 ---
 name: design-doc
 description: "Write, revise, or review technical design documents (设计文档) using the team's fixed template: a header block, then 需求/设计/排期/提测/上线/风险与待确认/其他 seven sections, with fixed subtitles, schedule and release tables. Use when the user asks for a 设计文档, 技术方案, 设计方案, 概要设计, 详细设计, or asks to fill or check the team design-doc template. Language-agnostic (Java, Go, frontend, etc.)."
-whenToUse: Trigger when the user requests creating, filling, or reviewing a design document against the team template, or pastes a requirement and asks for a design doc in the team format.
 metadata:
-  author: workspace-user
+  author: bozige
   version: 4.2.0
 ---
 
